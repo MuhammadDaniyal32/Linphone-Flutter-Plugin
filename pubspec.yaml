@@ -1,5 +1,5 @@
 name: linphone_flutter_plugin
-description: "A new Flutter project."
+description: "Linphone Flutter Plugin is a Flutter package that integrates the Linphone SDK's native Android calling functionalities into Flutter applications. Designed for Voice over IP (VOIP) communication, this plugin leverages the UDP protocol to enable efficient, real-time voice calling. It provides a seamless way to manage VOIP calls, handle call logs, and control call features such as muting, speaker toggling, and call forwarding directly within your Flutter app."
 version: 0.0.1
 homepage: https://github.com/MuhammadDaniyal32/Linphone-Flutter-Plugin
 

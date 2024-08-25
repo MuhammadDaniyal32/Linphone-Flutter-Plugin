@@ -1,6 +1,6 @@
 # Linphone Flutter Plugin
 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Linphone](https://img.shields.io/badge/Linphone-%230089CE.svg?style=for-the-badge&logo=Linphone&logoColor=white) [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdaniyalnoo)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdaniyalnoor)
 
 
 **Linphone Flutter Plugin** is a Flutter plugin that allows you to integrate Linphone SDK's native Android calling functionalities into your Flutter application. This plugin is designed for VOIP calling using the UDP protocol, making it ideal for real-time voice communication in your app.
@@ -15,11 +15,11 @@
 
 ## Installation
 
-To use this plugin, add `linphone flutter plugin` as a dependency in your `pubspec.yaml` file:
+To use this plugin, add `linphone_flutter_plugin` as a dependency in your `pubspec.yaml` file:
 
 - Run this command:
 ```yaml
- $ flutter pub add Linphone-Flutter-Plugin
+ $ dart pub add linphone_flutter_plugin
 ```
 
 ## Usage
